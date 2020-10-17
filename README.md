@@ -7,6 +7,6 @@ const human = {
   job: "Communications",
   disciplines: ["Designer", "Developer", "Photographer", "Copywriter"],
   lang: ["HTML", "CSS", "Javascript", "Java"],
-  mission: "To organize information and make it accessible, helpful, and aesthetically pleasing."
+  mission: "To organize information and make it accessible, helpful, and aesthetically appealing."
 }
 ```
