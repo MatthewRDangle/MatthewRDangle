@@ -6,7 +6,7 @@ I'm a designer, developer, photographer, and copywriter who specializes in commu
 ```javascript
 const human = {
   name: "Matthew Dangle",
-  job: "Communications",
+  role: "Communications Strategist",
   disciplines: ["Designer", "Developer", "Photographer", "Copywriter"],
   lang: ["HTML", "CSS", "Javascript", "Java"],
   mission: "To organize information and make it accessible, helpful, and aesthetically appealing."
