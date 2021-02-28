@@ -8,7 +8,7 @@ const human = {
   name: "Matthew Dangle",
   role: "Communications Strategist",
   disciplines: ["Designer", "Developer", "Photographer", "Copywriter"],
-  lang: ["HTML", "CSS", "Javascript", "Java"],
+  lang: ["HTML", "CSS", "Javascript", "Java", "Python"],
   mission: "To organize information and make it accessible, helpful, and aesthetically appealing."
 }
 ```
