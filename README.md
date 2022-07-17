@@ -12,4 +12,3 @@ const human = {
   mission: "To organize information and make it accessible, helpful, and aesthetically appealing."
 }
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=matthewrdangle&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
